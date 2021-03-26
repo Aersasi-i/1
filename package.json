@@ -13,10 +13,6 @@
     "test": "jest",
     "postinstall": "husky install"
   },
-  "engines": {
-    "node": ">= 6.0.0",
-    "npm": ">= 3.0.0"
-  },
   "prettier": {
     "trailingComma": "es5",
     "semi": false,
